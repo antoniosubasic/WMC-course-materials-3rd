@@ -1,0 +1,15 @@
+{
+  "name": "nikolaus",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "my first node attempt",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hello",
+  "license": "WTFPL",
+  "dependencies": {
+    "is-even": "^1.0.0"
+  }
+}
