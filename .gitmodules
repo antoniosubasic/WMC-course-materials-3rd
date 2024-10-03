@@ -4,3 +4,6 @@
 [submodule "004_more_basics"]
 	path = 004_more_basics
 	url = git@github.com:2425-3AHIF-WMC/ts-02-more-basics-training-antoniosubasic.git
+[submodule "005_arrays_functions"]
+	path = 005_arrays_functions
+	url = git@github.com:2425-3AHIF-WMC/ts-03-arrays-and-functions-antoniosubasic.git
