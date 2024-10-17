@@ -10,3 +10,6 @@
 [submodule "007e_classes"]
 	path = 007e_classes
 	url = git@github.com:2425-3AHIF-WMC/ts-04-classes-antoniosubasic.git
+[submodule "008e_interfaces"]
+	path = 008e_interfaces
+	url = git@github.com:2425-3AHIF-WMC/ts-05-interfaces-antoniosubasic.git
