@@ -13,3 +13,6 @@
 [submodule "008e_interfaces"]
 	path = 008e_interfaces
 	url = git@github.com:2425-3AHIF-WMC/ts-05-interfaces-antoniosubasic.git
+[submodule "009e_pokeapi"]
+	path = 009e_pokeapi
+	url = git@github.com:2425-3AHIF-WMC/ts-06-pokeapi-antoniosubasic.git
