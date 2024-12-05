@@ -1,0 +1,11 @@
+### Root
+
+GET http://localhost:3000
+
+### Person
+
+GET http://localhost:3000/person
+
+### Greeting
+
+GET http://localhost:3000/greeting/Jane
