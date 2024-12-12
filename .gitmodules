@@ -19,3 +19,6 @@
 [submodule "011e_static_hosting"]
 	path = 011e_static_hosting
 	url = git@github.com:2425-3AHIF-WMC/api-01-static-hosting-antoniosubasic.git
+[submodule "013e_api_garage"]
+	path = 013e_api_garage
+	url = git@github.com:2425-3AHIF-WMC/api-02-garage-antoniosubasic.git
