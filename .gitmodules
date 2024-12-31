@@ -22,3 +22,6 @@
 [submodule "013e_api_garage"]
 	path = 013e_api_garage
 	url = git@github.com:2425-3AHIF-WMC/api-02-garage-antoniosubasic.git
+[submodule "014e_quiz"]
+	path = 014e_quiz
+	url = git@github.com:2425-3AHIF-WMC/api-03-quiz-antoniosubasic.git
