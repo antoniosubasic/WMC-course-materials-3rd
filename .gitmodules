@@ -25,3 +25,6 @@
 [submodule "014e_quiz"]
 	path = 014e_quiz
 	url = git@github.com:2425-3AHIF-WMC/api-03-quiz-antoniosubasic.git
+[submodule "015e_moviedb"]
+	path = 015e_moviedb
+	url = git@github.com:2425-3AHIF-WMC/api-04-moviedb-antoniosubasic.git
