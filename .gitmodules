@@ -28,3 +28,6 @@
 [submodule "015e_moviedb"]
 	path = 015e_moviedb
 	url = git@github.com:2425-3AHIF-WMC/api-04-moviedb-antoniosubasic.git
+[submodule "016e_sqlite_intro"]
+	path = 016e_sqlite_intro
+	url = git@github.com:2425-3AHIF-WMC/db-01-flights-antoniosubasic.git
