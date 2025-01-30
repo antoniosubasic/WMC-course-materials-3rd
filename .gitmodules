@@ -31,3 +31,6 @@
 [submodule "016e_sqlite_intro"]
 	path = 016e_sqlite_intro
 	url = git@github.com:2425-3AHIF-WMC/db-01-flights-antoniosubasic.git
+[submodule "017e_sqlite_queries"]
+	path = 017e_sqlite_queries
+	url = git@github.com:2425-3AHIF-WMC/db-02-queries-1-antoniosubasic.git
