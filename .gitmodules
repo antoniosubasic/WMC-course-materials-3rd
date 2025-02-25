@@ -34,3 +34,6 @@
 [submodule "017e_sqlite_queries"]
 	path = 017e_sqlite_queries
 	url = git@github.com:2425-3AHIF-WMC/db-02-queries-1-antoniosubasic.git
+[submodule "018e_sqlite_complex_queries"]
+	path = 018e_sqlite_complex_queries
+	url = git@github.com:2425-3AHIF-WMC/db-03-queries-2-antoniosubasic.git
