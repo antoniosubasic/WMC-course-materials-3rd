@@ -37,3 +37,6 @@
 [submodule "018e_sqlite_complex_queries"]
 	path = 018e_sqlite_complex_queries
 	url = git@github.com:2425-3AHIF-WMC/db-03-queries-2-antoniosubasic.git
+[submodule "019e_flight_management"]
+	path = 019e_flight_management
+	url = git@github.com:2425-3AHIF-WMC/db-04-flight-mgmt-antoniosubasic.git
